@@ -1,6 +1,6 @@
 # Lab 9 — Group Data with GROUP BY and HAVING
 
-**Topic 03 — Data Transformation** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 03 — Data Transformation** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO3 — transform data by grouping and filtering groups (A4, A6).
 

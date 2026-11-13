@@ -1,6 +1,6 @@
 # Lab 2 — Create a Database and Tables
 
-**Topic 01 — Data Modeling** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 01 — Data Modeling** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO1 — create and manage databases and tables with SQL DDL (A1, A2).
 

@@ -1,6 +1,6 @@
 # SQL Fundamental for Beginners — Learner Guide
 
-**WSQ Course Code:** TGS-2020505790  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v14 · 11 August 2026**
+**WSQ Course Code:** TGS-2026066737  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v15 · 13 November 2026**
 
 ## Contents
 
@@ -31,7 +31,7 @@
 
 ## Introduction
 
-This Learner Guide accompanies the WSQ course SQL Fundamental for Beginners (TGS-2020505790), conducted by Tertiary Infotech Academy Pte Ltd. It provides detailed step-by-step instructions for all 11 hands-on labs, organised by the four course topics: Data Modeling, Data Processing and Analysis, Data Transformation, and Introduction to Data Warehouse. Every lab runs in SQLite Studio (or the free sqliteonline.com) against the SG Mart mock database supplied with the course.
+This Learner Guide accompanies the WSQ course SQL Fundamental for Beginners (TGS-2026066737), conducted by Tertiary Infotech Academy Pte Ltd. It provides detailed step-by-step instructions for all 11 hands-on labs, organised by the four course topics: Data Modeling, Data Processing and Analysis, Data Transformation, and Introduction to Data Warehouse. Every lab runs in SQLite Studio (or the free sqliteonline.com) against the SG Mart mock database supplied with the course.
 
 Use this guide alongside the course slides and the lab files in the courseware/labs/ folder of the course repository. The slides present each concept and lab visually; THIS guide carries the full step-by-step SQL for you to type and run. The guide is an approved open-book reference during the final assessment.
 

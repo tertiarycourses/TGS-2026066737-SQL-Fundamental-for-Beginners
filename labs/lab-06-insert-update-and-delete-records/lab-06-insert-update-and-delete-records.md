@@ -1,6 +1,6 @@
 # Lab 6 — Insert, Update and Delete Records
 
-**Topic 02 — Data Processing and Analysis** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 02 — Data Processing and Analysis** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO2 — process data by inserting, updating and deleting records (A3, A5).
 

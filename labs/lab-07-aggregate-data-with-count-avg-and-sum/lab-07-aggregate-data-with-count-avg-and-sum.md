@@ -1,6 +1,6 @@
 # Lab 7 — Aggregate Data with COUNT, AVG and SUM
 
-**Topic 03 — Data Transformation** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 03 — Data Transformation** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO3 — transform data with aggregate functions (A4, A6).
 

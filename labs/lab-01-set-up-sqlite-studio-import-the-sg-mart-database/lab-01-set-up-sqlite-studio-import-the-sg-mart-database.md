@@ -1,6 +1,6 @@
 # Lab 1 — Set Up SQLite Studio & Import the SG Mart Database
 
-**Topic 01 — Data Modeling** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 01 — Data Modeling** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO1 — identify relevant data sources and set up the SQL workbench (A1, A2).
 

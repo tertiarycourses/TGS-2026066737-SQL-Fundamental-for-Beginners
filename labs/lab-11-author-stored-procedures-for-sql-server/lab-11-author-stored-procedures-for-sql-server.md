@@ -1,6 +1,6 @@
 # Lab 11 — Author Stored Procedures for SQL Server
 
-**Topic 04 — Introduction to Data Warehouse** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 04 — Introduction to Data Warehouse** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO4 — operate data-warehouse platform capabilities with reusable stored procedures (A7, A8, A9).
 

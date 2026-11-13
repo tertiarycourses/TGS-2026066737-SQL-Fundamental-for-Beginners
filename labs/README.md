@@ -1,6 +1,6 @@
 # SQL Fundamental for Beginners — Hands-On Labs
 
-**WSQ Course Code:** TGS-2020505790 · **Version v14** · Tertiary Infotech Academy Pte Ltd
+**WSQ Course Code:** TGS-2026066737 · **Version v15** · Tertiary Infotech Academy Pte Ltd
 
 Full step-by-step for every lab is also in the Learner Guide (LG). Labs run in SQLite Studio (https://sqlitestudio.pl) or https://sqliteonline.com.
 

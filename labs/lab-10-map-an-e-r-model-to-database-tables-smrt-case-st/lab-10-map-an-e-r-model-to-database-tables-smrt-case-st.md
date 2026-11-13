@@ -1,6 +1,6 @@
 # Lab 10 — Map an E-R Model to Database Tables (SMRT Case Study)
 
-**Topic 04 — Introduction to Data Warehouse** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 04 — Introduction to Data Warehouse** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO4 — apply data mapping from an E-R model to a data warehouse schema (A7, A8, A9).
 

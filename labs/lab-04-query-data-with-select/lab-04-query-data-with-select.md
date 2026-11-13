@@ -1,6 +1,6 @@
 # Lab 4 — Query Data with SELECT
 
-**Topic 02 — Data Processing and Analysis** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 02 — Data Processing and Analysis** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO2 — apply data processing and analysis using SQL queries (A3, A5).
 

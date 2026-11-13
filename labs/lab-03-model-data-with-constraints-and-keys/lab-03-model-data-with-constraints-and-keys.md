@@ -1,6 +1,6 @@
 # Lab 3 — Model Data with Constraints and Keys
 
-**Topic 01 — Data Modeling** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 01 — Data Modeling** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO1 — apply data modeling for business processes with constraints, keys and relationships (A1, A2).
 

@@ -1,6 +1,6 @@
 # Lab 8 — Join Data from Multiple Tables
 
-**Topic 03 — Data Transformation** · SQL Fundamental for Beginners (TGS-2020505790)
+**Topic 03 — Data Transformation** · SQL Fundamental for Beginners (TGS-2026066737)
 
 **Objective:** LO3 — transform data from multiple sources with joins and unions (A4, A6).
 
